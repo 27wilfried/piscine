@@ -1,4 +1,3 @@
-}
 
 int my_print_digits(void)
 {
