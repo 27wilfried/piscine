@@ -1,4 +1,3 @@
-
 int my_print_alpha(void)
 {
     char c;
