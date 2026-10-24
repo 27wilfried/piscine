@@ -1,3 +1,4 @@
+int my_print_digits(void);
 
 int my_print_digits(void)
 {
